@@ -1,12 +1,1 @@
 vendor_id,vendor_name,contract_end_date,annual_spend_usd,decision,issue_number
-V-2001,Northwind Logistics,2026-11-20,185000,URGENT_RENEWAL,3
-V-2002,Brightline Analytics,2026-12-01,420000,URGENT_RENEWAL,4
-V-2003,Copperfield Security,2027-01-11,96000,URGENT_RENEWAL,5
-V-2004,Archer Cloud Services,2027-02-28,355000,EXEC_APPROVAL,6
-V-2005,Lumen Staffing,2027-04-30,122000,REMEDIATION,7
-V-2006,Apex Maintenance,2027-11-30,148000,REMEDIATION,8
-V-2007,Pinnacle Print,2027-06-30,46000,AUTO_RENEW,
-V-2008,Meridian Consulting,2027-03-15,275000,MANUAL_REVIEW,
-V-2009,Ridgepoint Media,2027-01-12,238000,MANUAL_REVIEW,
-V-2010,Granite Insurance,2027-09-30,310000,EXEC_APPROVAL,9
-V-2011,Orchard Catering,2027-10-31,78000,MANUAL_REVIEW,
