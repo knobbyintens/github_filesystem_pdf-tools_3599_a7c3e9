@@ -1,0 +1,12 @@
+vendor_id,vendor_name,service_category,contract_end_date,annual_spend_usd,risk_tier,auto_renew,owner_email
+V-2001,Northwind Logistics,Logistics,2026-11-20,185000,medium,no,dana.reyes@northwind.example.com
+V-2002,Brightline Analytics,Data & Analytics,2026-12-01,420000,high,no,omar.haddad@brightline.example.com
+V-2003,Copperfield Security,Cybersecurity,2027-01-11,96000,low,no,lucy.chen@copperfield.example.com
+V-2004,Archer Cloud Services,Cloud Infrastructure,2027-02-28,355000,medium,no,peter.novak@archercloud.example.com
+V-2005,Lumen Staffing,Staffing,2027-04-30,122000,high,no,grace.owens@lumenstaff.example.com
+V-2006,Apex Maintenance,Facilities,2027-11-30,148000,medium,no,frank.torres@apexmaint.example.com
+V-2007,Pinnacle Print,Print Services,2027-06-30,46000,low,yes,ivy.patel@pinnacleprint.example.com
+V-2008,Meridian Consulting,Consulting,2027-03-15,275000,medium,no,noah.briggs@meridianconsult.example.com
+V-2009,Ridgepoint Media,Marketing,2027-01-12,238000,medium,no,sara.kim@ridgepointmedia.example.com
+V-2010,Granite Insurance,Insurance,2027-09-30,310000,high,no,leo.martin@graniteins.example.com
+V-2011,Orchard Catering,Catering,2027-10-31,78000,medium,yes,amy.walsh@orchardcatering.example.com
